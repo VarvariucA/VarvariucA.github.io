@@ -9,7 +9,7 @@ html,body {
 }
 
 body {
-	background: #e4e4e4 url("images/bg.jpg") repeat;
+	background: #e4e4e4 url("bg.jpg") repeat;
 	font-family: Arial;
 	font-size: 14px;
 	color: #4b4b4b;
@@ -305,7 +305,7 @@ ul.rightNav li a {
 	padding: 8px 10px 8px 30px;
 	display: block;
 	border-top: 1px solid #bcbcbc;
-	background: url("images/arrow-right.png") 13px 50% no-repeat;
+	background: url("arrow-right.png") 13px 50% no-repeat;
 }
 
 ul.rightNav li:first-child a {
