@@ -6,7 +6,7 @@
 
 Задача: Создать индивидуальную IDEF0-диаграмму на тему: "Тут ваша тема"
 
-Диаграмма (А-0 уровень): 
+Диаграмма IDEF0 (А-0 уровень): 
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/k1.jpg?raw=true)
 
@@ -25,10 +25,19 @@
 [Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t3.txt) диаграммы прецедентов.
 
 ## Лабораторная 2
+Диаграмма IDEF0 (А0 уровень):
 
+![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/k1.jpg?raw=true)
 
+Диаграмма DFD (Диаграммы DFD):
+
+![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/k1.jpg?raw=true)
+
+[Файл](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/file.rsf) проекта (файл.rsf).
 
 ## Лабораторная 3
+
+
 
 ## Лабораторная 4
 
