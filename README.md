@@ -16,13 +16,13 @@
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/k2.jpg)
 
-[Текст](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t2.txt) диаграммы классов.
+[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t2.txt) диаграммы классов.
 
 Диаграмма прецедентов:
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/k3.jpg)
 
-[Текст](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t3.txt) диаграммы прецедентов.
+[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t3.txt) диаграммы прецедентов.
 
 ## Лабораторная 2
 
