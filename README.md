@@ -16,20 +16,20 @@
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k2.jpg?raw=true)
 
-[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t2.txt) диаграммы классов.
+[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t1.txt) диаграммы классов.
 
 Диаграмма прецедентов:
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k3.jpg?raw=true)
 
-[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t3.txt) диаграммы прецедентов.
+[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t2.txt) диаграммы прецедентов.
 
 ## Лабораторная 2
 Диаграмма IDEF0 (А0 уровень):
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k4.jpg?raw=true)
 
-Диаграмма DFD (Диаграммы DFD):
+Диаграмма DFD (декомпозиция первого блока):
 
 ![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k5.jpg?raw=true)
 
@@ -37,7 +37,15 @@
 
 ## Лабораторная 3
 
+Диаграмма DFD (декомпозиция второго блока):
 
+![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k5.jpg?raw=true)
+
+Диаграмма последовательности:
+
+![рисунок](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/Guide/k6.png?raw=true)
+
+[Код](https://github.com/VarvariucA/VarvariucA.github.io/blob/master/t3.txt) диаграммы последовательности.
 
 ## Лабораторная 4
 
